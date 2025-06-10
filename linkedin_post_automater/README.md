@@ -20,7 +20,7 @@ crewai install
 ```
 ### Customizing
 
-**Add your `OPENAI_API_KEY` into the `.env` file**
+**Add your `Linkedin_access_token` , `GEMINI_API_KEY` , `RAPIDAPI_KEY` , `MODEL` into the `.env` file**
 
 - Modify `src/linkedin_post_automater/config/agents.yaml` to define your agents
 - Modify `src/linkedin_post_automater/config/tasks.yaml` to define your tasks
