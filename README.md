@@ -48,6 +48,8 @@ Staying active on LinkedIn requires time, strategy, and creativity.
 ## 📌 Outcome
 
 With **LinkedIn Post Automater**, you're not just posting—you’re building a presence.
+![LinkedIn Post Automater.png](1.png)
+![LinkedIn Post Automater.png](2.png)
 
 ---
 
