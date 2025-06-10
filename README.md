@@ -1,5 +1,6 @@
 # 💼 LinkedIn Post Automater
 
+![LinkedIn Post Automater.png](LinkedIn Post Automater.png)
 **LinkedIn Post Automater** is an AI-powered solution that simplifies the entire process of creating and publishing professional content on LinkedIn.
 
 Whether you're an entrepreneur, thought leader, or marketing professional, this tool empowers you to stay active and relevant with consistent, high-quality posts—without the manual effort.
